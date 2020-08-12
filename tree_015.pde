@@ -2,7 +2,7 @@
 // Circle-Tree-015
 // Fork by Rupert Russell of Circle Tree by Agoston Nagy
 // https://www.openprocessing.org/sketch/138954
-// Code on Github at: https://github.com/rupertrussell/Circle-Tree-009
+// Code on Github at: https://github.com/rupertrussell/Circle-Tree-015
 // Artwork on redbubble at: https://www.redbubble.com/shop/ap/54746647
 
 String filename = "tree_9411_42200_01_";  
